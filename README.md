@@ -4,6 +4,9 @@
 pkg install python 
 
 
+pkg install python2
+
+
 pkg install git 
 
 
@@ -16,4 +19,4 @@ cd HXWHATSAP-tool
 chmod +x *
 
 
-python HxWhatsApp.py
+python2 HxWhatsApp.py
